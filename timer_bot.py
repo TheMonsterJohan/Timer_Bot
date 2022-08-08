@@ -13,7 +13,7 @@ from telebot import types
 from datetime import datetime
 import time
 
-service_file = r'C:\Users\Will\OneDrive\Desktop\timelogger\plenary-network-357508-e2922d08b6ea.json'
+service_file = r'plenary-network-357508-e2922d08b6ea.json'
 gc = pygsheets.authorize(service_file=service_file)
 sheetname = 'Timelogger'
 sh = gc.open(sheetname)
