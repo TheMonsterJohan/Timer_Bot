@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "plenary-network-357508",
+  "private_key_id": "e2922d08b6eaac8074eaa0164e28fd8d62a63cf4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDkJswPu3PUaSA6\ny0TFLmJtl8NxhgVCsgptawFqJkZQ5W9NppvAzI37XMpzRF94gtxAC+8kwxYD1mnD\n/8IrFurLpTxRL1A1YXyRQfbKIER3qxraE5sFVP3o8CvVDcdQw4EZkFRRZ6cBlh3A\nIjBJ93DnUkL52Jy2/VRASCt/bwwoiDLcDu7QZ2Tpx12nA7GiTv3Cyg+4EZ7viv+h\niRNl5aHvddkj63Pj82PMxXwe0SYJOba34Am6DPJvcrQILbrx820VQ8+YyVkeOY27\nIiCbgVMrt2b506Q8icCFF5njxmVOJwLBvlolMa4F2j1FsjN5MDWsz4uox58904jQ\nFV01knzTAgMBAAECggEAYdZhW72/Bi+uqofQjd4+R1D1dxFJ4DgJULK6gJK5RKee\n+2WfFSajHE/GYXfImR1E5hI4E0O1hR/Fa0+aLHA/b+UD4KyxcLLFgGURN8xukALI\nGQyfRcIUwHd91Hd8KZ4tFpFWFzKj44JEb8g5fP6nZAtavVmumqo4HvjT7mnohNhT\nyG8KwT5/hGHsBbggLAU+nGr2CIj6psvCS0j3iJJdFCp9QWO/Kp4tHmP1A4Vi5+2+\nYpl6eH0U9twNDjqrcFGiw/iuScHY7aurGTFahvwZw4n8YG1Hq/VUVo+41T1m1Oeq\nmERNLeiBN+C/evohbuG0YJz7LxAaVurpbIdYeEX2QQKBgQD7OzvCM6SEF3uCb7of\n3iPHuitdT2bHb/PYZPvvsdTXnDT+vhHKLKWZMmND4aRtsufzI80fkOC3pEigKtbu\nIzI/canJLPrKa4linghk46xGzV6ltXXBA+9RGo+g7DmGjoyBsvzM0dAUhvJ/iY6w\n2rTYSigdLzh5mnf7HiBwhs7BHQKBgQDoe2ptifLk4EZQeHhfX7OalQfBm3fgBshn\nqgxr59xFWMupZHTgKpykOw6asazqpLlUqe/RJdMhU0fGFtZ0+CwzDawTqWH0EU6o\njihYwSwfrtYYi8QzAT9qR5agFzFg4I4xe1h+XeVcR5PMWSnh/+IoYtw6suEwNqhI\n6K0+4s9CrwKBgBhTsgOqEIIh6/nDa9huIDTU2CIe8Crbslb/4E1jgOKn45HPQdW7\n4QUmleoazVs5+a/XhaNK2heuNsIbo9hHXDQ8g15Rlq9HHnSILPPn/+STOlj9azuX\nb/MAiWvhs+hNoVllxYjnwChcsNqcrU5+vwg6lgvNaMCNrpSIZEfBJgAZAoGAdq4K\nNsElbhHP02SsjoOcfF14CC4FlCfiRolYrf0/RWd/EIpn38fhDzXWzsHFNEPDGKVn\n960HiwuoqEcgU7YdWjKwlZjymFX9ga6Qij6S99mZEg7HqgIJDYheLHuqiXoZHMmK\n83ebjvA7UyZxax3lphhRtOV8b9B3OEEPr/q5M6ECgYEAtab9zI2uLJJGKBdZPmBp\nox5Yvj3GExa57+Hla9iZOeGFou7mIniFi2fY/dxwxkMEAGVh4f1DwUUiY5lTNCz5\nk/hec/KGlh/vPPDATDGco7dNf+/wcUIdmrDJhtP/wqrn9ZTFLqsphdmOXmGPau7T\n3oLZIVwZ50dOtrItzkyLYaI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "nexlogicintern@plenary-network-357508.iam.gserviceaccount.com",
+  "client_id": "113934004573611959469",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/nexlogicintern%40plenary-network-357508.iam.gserviceaccount.com"
+}
