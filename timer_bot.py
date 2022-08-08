@@ -9,6 +9,7 @@
 import pygsheets
 from email import message
 import telebot
+import pytz
 from telebot import types
 from datetime import datetime
 import time
@@ -54,8 +55,8 @@ def process_timein(message):
     nofind = int(len(finduser))
     if nofind >= 1:
         try:
-            now = datetime.now()
-            date_time = now.strftime("%H:%M:%S")
+            now = datetime.now(pytz.timezone('Asia/Manila'))
+            date_time = now.strftime("%H:%M")
             time = now.strftime("%H:%M:%S")
             date = now.strftime('%m/%d/%y')
             chat_id = message.chat.id
@@ -100,8 +101,8 @@ def process_timein(message):
 def process_timeout(message):
    
     try:
-        now2 = datetime.now()
-        date_time2 = now2.strftime("%H:%M:%S")
+        now2 = datetime.now(pytz.timezone('Asia/Manila'))
+        date_time2 = now2.strftime("%H:%M")
         time2 = now2.strftime("%H:%M:%S")
         timeout = message.text 
         user = User(timeout)
